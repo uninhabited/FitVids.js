@@ -1,0 +1,9 @@
+{
+  "name": "fitvids",
+  "repo": "davatron5000/FitVids.js",
+  "version": "1.2.0",
+  "description": "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
+  "scripts": [ "jquery.fitvids.js" ],
+  "dependencies": { },
+  "license": "WTFPL"
+}
