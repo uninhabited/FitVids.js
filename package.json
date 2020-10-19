@@ -1,0 +1,19 @@
+{
+  "name": "fitvids.js",
+  "version": "1.2.0",
+  "description": "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
+  "main": "jquery.fitvids.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uninhabited/fitvids.js.git"
+  },
+  "author": "davatron5000",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/uninhabited/fitvids.js/issues"
+  },
+  "homepage": "https://github.com/uninhabited/fitvids.js#readme"
+}
