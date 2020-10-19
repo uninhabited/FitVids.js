@@ -12,5 +12,6 @@
 		"homepage": "http://daverupert.com"
 	}],
 	"license": "WTFPL",
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
+	"type": "npm-asset"
 }
